@@ -1,6 +1,6 @@
 # 🎮 Proyectos Integradores — Primer Nivel
 ### Escuela de Ciencias de la Computación · Ingeniería en Sistemas de Información
-**Periodo Académico: Marzo – Julio 2025**
+**Periodo Académico: Marzo – Julio 2026**
 
 ---
 
@@ -164,8 +164,8 @@ Este repositorio y todos los proyectos aquí alojados deben:
 <div align="center">
 
 **Escuela de Ciencias de la Computación — UIDE / [www.uide.edu.ec]**
-
-*Periodo Marzo–Julio 2025 · Primer Nivel · Lógica de Programación*
+**Ingeniería en Sistemas de Información**
+*Periodo Marzo–Julio 2026 · Primer Nivel · Lógica de Programación*
 
 Hecho con `while (café > 0): código()` ☕
 
