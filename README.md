@@ -163,7 +163,7 @@ Este repositorio y todos los proyectos aquí alojados deben:
 
 <div align="center">
 
-**Escuela de Ciencias de la Computación — UIDE / [Universidad]**
+**Escuela de Ciencias de la Computación — UIDE / [www.uide.edu.ec]**
 
 *Periodo Marzo–Julio 2025 · Primer Nivel · Lógica de Programación*
 
