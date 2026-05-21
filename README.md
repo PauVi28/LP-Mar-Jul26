@@ -160,22 +160,10 @@ Este repositorio y todos los proyectos aquí alojados deben:
 
 ---
 
-## 🏁 Criterios de Evaluación Final (Resumen)
-
-| Criterio | Puntaje |
-|----------|---------|
-| Lógica y Funcionalidad del Sistema | /4 |
-| Arquitectura y Redes (Cliente-Servidor) | /4 |
-| Diseño Centrado en el Usuario | /4 |
-| Ética y Responsabilidad Profesional | /4 |
-| Comunicación, Defensa y Trabajo en Equipo | /4 |
-| **TOTAL** | **/20** |
-
----
 
 <div align="center">
 
-**Escuela de Ciencias de la Computación — ESPE / UTE / [Universidad]**
+**Escuela de Ciencias de la Computación — UIDE / [Universidad]**
 
 *Periodo Marzo–Julio 2025 · Primer Nivel · Lógica de Programación*
 
