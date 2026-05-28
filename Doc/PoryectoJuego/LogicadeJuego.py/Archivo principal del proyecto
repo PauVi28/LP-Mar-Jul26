@@ -29,3 +29,7 @@ while ejecutando:
 
     pygame.display.flip()
     clock.tick(60)
+
+pygame.quit()
+
+Nota: Este es el inico del trabajo y puede ser modificado dependiendo el requerimiento del trabajado.
