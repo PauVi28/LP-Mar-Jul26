@@ -1,0 +1,32 @@
+class Card:
+
+    def _init_(self, palo, valor):
+
+        self.palo = palo
+        self.valor = valor
+
+    def _str_(self):
+        return f"{self.valor} de {self.palo}"
+
+
+def crear_mazo():
+
+    palos = ["Oros", "Copas", "Espadas", "Bastos"]
+
+    valores = [
+        "A", "2", "3", "4", "5",
+        "6", "7", "10", "11", "12"
+    ]
+
+    mazo = []
+
+    for palo in palos:
+        for valor in valores:
+
+            carta = Card(palo, valor)
+
+            mazo.append(carta)
+
+    return mazo
+
+   Nota: Este es el inico del trabajo y puede ser modificado dependiendo el requerimiento del trabajado.
