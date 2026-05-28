@@ -1,0 +1,31 @@
+Proyecto final de Lógica de Programación para la UIDE (Mar-Jul 26). Juego de carreras multijugador en tiempo real utilizando la arquitectura Cliente-Servidor mediante Sockets TCP concurrentes.
+
+# Estructura del Proyecto
+* `game_logic.py`: Contiene las clases del juego (Carro, Obstaculo, Nitro, Particula).
+* `server.py`: Servidor centralizado que gestiona la lógica, colisiones y sincronización.
+* `client.py`: Cliente gráfico que procesa los inputs y renderiza el juego en Pygame.
+* `juego.py`: Prototipo de modo local/offline para pruebas de juego individuales.
+
+# Requisitos e Instalación
+Se necesita tener Python 3 y la librería Pygame instalada:
+pip install pygame
+
+# Instrucciones de Ejecución
+Para iniciar el juego en red, se deben abrir tres terminales en el siguiente orden:
+
+Terminal 1 (Servidor): python server.py
+
+Terminal 2 (Jugador 1): python client.py
+
+Terminal 3 (Jugador 2): python client.py
+
+Controles J1: A / D (Movimiento) y Z (Nitro).
+
+Controles J2: Flecha Izquierda / Flecha Derecha (Movimiento) y Z (Nitro).
+
+# Declaración de Autoría, Créditos y Licencia
+Licencia: Este proyecto se distribuye bajo la Licencia MIT (ver archivo LICENSE).
+
+Uso de IA: Se utilixo la IA Claude principalmente para explicar problemas, y pulir el codigo con un porcentaje de un 15% de participacion.
+
+Recursos de Terceros: Gráficos vectoriales renderizados mediante pygame.draw.
